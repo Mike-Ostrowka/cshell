@@ -10,11 +10,11 @@ make clean to clean
 
 valid commands:
 
-exit - exit cshell  
-log - print a log of executed commands  
-$ - create or use a variable, ex: <$var=hello> will create a variable named var holding "hello"   
-print - print a string composed of variables and hardcoded text. Ex: <$var world!> prints "hello world!"   
-theme - change the theme to a new text color, valid options are white, red, blue, and green  
+- exit - exit cshell  
+- log - print a log of executed commands  
+- $ - create or use a variable, ex: <$var=hello> will create a variable named var holding "hello"   
+- print - print a string composed of variables and hardcoded text. Ex: <$var world!> prints "hello world!"   
+- theme - change the theme to a new text color, valid options are white, red, blue, and green  
 
 
 
