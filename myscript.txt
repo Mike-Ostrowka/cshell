@@ -1,0 +1,5 @@
+theme blue
+$VAR=foo
+print $VAR
+theme red
+log
